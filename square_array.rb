@@ -3,7 +3,7 @@ def square_array(array)
   array.each do |number| 
     puts number ** 2
   end
-  number.each do |number|
-    puts number ** 2
+  number.each do |square|
+    puts square ** 2
   end
 end
